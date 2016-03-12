@@ -1,0 +1,63 @@
+/* HEADER
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 09/03/2016, 21:17:57
+    Author     : SISTEC
+*/
+
+/
+
+
+
+	
+	
+
+	 
+.business-header{
+	width:1024px;
+	height:360px;
+	position:absolute;
+	left:50%;
+	margin-left: -512px;
+	
+	
+	
+} 
+
+
+.img-responsive{
+		
+	display: block;
+	margin: auto;
+	margin-top:30px;
+	width:960px;
+	height:430px;
+	
+    
+}
+
+.texto-banner{
+		
+    display: block;
+	margin: auto;
+	margin-top:-320px;
+	
+	
+		
+}
+
+.jumbotron{
+	
+background: rgb(254,255,255); 
+background: -moz-linear-gradient(top,  rgba(254,255,255,1) 0%, rgba(210,235,249,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(254,255,255,1) 0%,rgba(210,235,249,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(254,255,255,1) 0%,rgba(210,235,249,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feffff', endColorstr='#d2ebf9',GradientType=0 ); /* IE6-9 */
+margin-top:15px;
+
+		
+}
+

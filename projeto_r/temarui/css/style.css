@@ -1,0 +1,45 @@
+/* HEADER
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 09/03/2016, 21:17:57
+    Author     : SISTEC
+*/
+
+.navbar  {
+	margin-bottom:0;
+	
+}
+
+.jumbotron{
+	width:1024px;
+	heidth:360px;
+	position:absolute;
+	left:50%;
+	margin-left: -512px;
+	
+}
+
+.container1{
+	margin-bottom: 0px;
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+	
+	
+}
+
+.row{
+	padding:410px;
+	width:680px;
+	heidth:400px;
+	position:absolute;
+	left:50%;
+	margin-left: -340px;
+	
+	
+}
